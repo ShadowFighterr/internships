@@ -8,6 +8,7 @@ You can contribute new internship openings or updates here:
 Our notion template for your internship applications:  
 👉 [Internship application template](https://slash-porcupine-7db.notion.site/Internship-application-template-28eee2ae2bdd816a8e08d7e931a527be)
 
+![companies_level](https://github.com/user-attachments/assets/7093f9f2-e4ba-4c6c-b642-31ee3dcfaa03)
 
 | # | Company | Careers Page | Open Applications | Notes |
 |---|----------|---------------|------------------|-----------|
